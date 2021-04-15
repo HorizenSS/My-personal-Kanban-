@@ -1,4 +1,4 @@
-package io.agileintelligence.ppmtool.domain;
+package com.example.demo.ppmtool.domain;
 
 
 import com.fasterxml.jackson.annotation.JsonFormat;
